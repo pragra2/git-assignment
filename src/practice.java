@@ -6,7 +6,7 @@ public class practice {
         List<String> students = new ArrayList<String>();
         students.add("John");
         students.add("Charandeep");
-	students.add("Manish");
+        students.add("Manish");
         System.out.println(students);
     }
 }
